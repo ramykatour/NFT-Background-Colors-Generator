@@ -15,5 +15,3 @@ Make sure you have Python and the Pillow library (PIL) installed. You can instal
 
 ```bash
 pip install Pillow
-
-Enjoy creating your NFT background images!
